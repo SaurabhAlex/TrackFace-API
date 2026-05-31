@@ -1,0 +1,26 @@
+[
+    {
+        "id": "E001",
+        "name": "Shivam Gupta",
+        "email": "shivamgupta@example.com",
+        "department": "Engineering",
+        "role": "Software Engineer",
+        "registered_image_filename": "images/shivam.png"
+    },
+    {
+        "id": "E002",
+        "name": "Saurabh Gupta",
+        "email": "saurabhgupta@example.com",
+        "department": "HR",
+        "role": "HR Executive",
+        "registered_image_filename": "images/saurabh.png"
+    },
+    {
+        "id": "E003",
+        "name": "Narendra Modi",
+        "email": "narendramodi@example.com",
+        "department": "Indian Politics",
+        "role": "Prime Minister",
+        "registered_image_filename": "images/modiprofilepic.jpg"
+    }
+]

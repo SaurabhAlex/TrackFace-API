@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Runtime Files
+*.log
+
+# Local Data
+data/
+
+# AI Vector Store
+faiss_index/
+
+# Uploaded Images
+app/images/
+
+# Temporary Files
+temp/
